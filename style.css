@@ -1,0 +1,16 @@
+h1{
+  margin-top: 60px;
+margin-bottom: 20px;
+border-style: dashed;
+border-width: thick;
+text-align: center;
+padding: 10px;
+background-color: #ff9800;
+color: snow;
+font-weight: 800;
+}
+
+#box{
+  border-style: solid;
+  padding: 20px;
+}
