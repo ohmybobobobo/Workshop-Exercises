@@ -14,3 +14,44 @@ font-weight: 800;
   border-style: solid;
   padding: 20px;
 }
+
+body {
+  padding-left: 11em;
+  font-family: Georgia, "Times New Roman",Times, serif;
+  color: purple;
+  background-color: rgb(240, 240, 240) }
+
+h6 {
+ font-family: fantasy;
+ font-size: 40px;
+ text-shadow: 5px 5px white;
+ color: #af2d2d
+}
+
+ul.navbar {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  position: absolute;
+  top: 2em;
+  left: 1em;
+  width: 9em;
+  margin-top: 200px}
+
+ul.navbar li {
+     background: white;
+     margin: 0.5em 0;
+     padding: 0.3em;
+     border-right: 1em solid black }
+ul.navbar a {
+     text-decoration: none }
+a:link {
+     color: black }
+a:visited {
+     color: #af2d2d }
+
+#special_box{
+  border-style: dashed;
+  color: purple;
+  background-color: yellow
+}
